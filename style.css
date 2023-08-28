@@ -1,0 +1,382 @@
+.container{
+    width: 480px;
+    margin: auto;
+    background-color: white;
+}
+.ban{
+    background-color: darkblue ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 200px;  
+}
+.fa-bell{
+    font-size: 40px;
+    margin-top: 190px;
+    padding-left: 110px;
+
+}
+#text{
+    margin-top: 35px;
+    height: 50px;
+    font-family: sans-serif;
+    width: 420px;
+    font-size:larger;
+    font-weight: bold;
+    color: black;
+}
+#password{
+    margin-top: 15px;
+    height: 50px;
+    font-family: sans-serif;
+    width: 420px;
+    font-size:larger;
+    font-weight: bold;
+    color: black;
+}
+.pass{
+    padding-left: 10px;
+}
+.log{
+    padding-left: 10px;
+}
+#submit{
+    margin-top: 10px;
+    width: 60px;
+    height: 40px;
+    background-color: dimgray;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.fono{
+    margin-top: 15px;
+}
+.forp{
+    font-family: sans-serif;
+    color: black;
+    margin-bottom: 10px;
+}
+.enr{
+    margin-top: 10px;
+}
+.note{
+    margin-top: 10px;
+    color: black;
+    font-family: sans-serif;
+}
+.rege{
+    font-family: sans-serif;
+}
+.if{
+    font-family: sans-serif;
+}
+.please{
+    color: red;
+    font-family: sans-serif;
+}
+.fdi{
+    width: 80px;
+    margin-top: 40px;
+}
+.len{
+    width: 80px;
+}
+.ver{
+    padding-left: 100px;
+    margin-top: -120px;
+    font-family: sans-serif;
+}
+.lh{
+    height: 150px;
+}
+
+/*HOME.html*/
+.containern{
+    width: 480px;
+    margin: auto;
+    background-color: white;
+}
+.banim{
+
+}
+.link{
+    margin-top: 5px;
+}
+.navbar{
+    display: flex;
+    background-color: royalblue;
+    margin-top: 5px;
+    height: 100px;
+}
+.colu{
+    padding-right: 75px;
+    padding-left: 30px;
+}
+.monb{
+    padding-right: 75px;
+}
+.rot{
+    padding-right: 75px;
+}
+.build{
+    margin-top: 10px;
+}
+.trans{
+    margin-top: 30px;
+}
+.his{
+    margin-top: 10px;
+}
+.colu > .link >a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}.colu > .link >a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.monb > .link >a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}.monb > .link >a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.rot > .link >a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}.rot > .link >a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.header{
+    display: flex;
+    background-color: darkblue;
+    height: 90px;
+}
+.user2{
+    padding-right: 70px;
+    padding-left: 40px;
+    margin-top: 10px;
+}
+.banim{
+    padding-right: 70px;
+    margin: 10px;
+}
+.menu2{
+    margin-top: 10px;
+}
+.summ{
+    background-color: darkblue;
+    height: 30px;
+    color: white;
+    font-family: sans-serif;
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-size: x-large;
+    margin-top: -10px;
+    width: 480px;
+}
+.ecing{
+    border: 1px solid royalblue;
+    background-color: gainsboro;
+}
+.avb{
+    padding-left: 250px;
+}
+.avbb{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.aba{
+    color: grey;
+    font-weight: bolder;
+}
+.ecingg{
+    border: 1px solid royalblue;
+    margin-top: 10px;
+    background-color: gainsboro;
+}
+.foot{
+    margin-top: 10px;
+}
+/*TRAMSFER*/
+.frmall{
+    padding-left: 30px;
+    width: 400px;
+    border: 1px solid black;
+    margin: 10px;
+}
+.frm{
+    font-size: small;
+}
+.tt{
+    font-size: small;
+}
+.selfr{
+    border: none;
+    width: 390px;
+    font-size: larger;
+    font-family: sans-serif;
+}
+.toall{
+    margin-top: 40px;
+    padding-left: 30px;
+    border: 1px solid black;
+    width: 390px;
+}
+.accn{
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+}
+.rtnum{
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+}
+.rcrep{
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+.amt{
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size: large;
+    width: 400px;
+    height: 40px;
+}
+.frmalll{
+    padding-left: 30px;
+    width: 400px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.memo{
+    margin-top: 25px;
+    width: 400px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+    border: 1px solid black;
+    height: 40px;
+}
+.secppp{
+    margin: 15px;
+    padding-left: 0px;
+}
+.secpi{
+    margin-top: 0px;
+    width: 300px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+    border: 1px solid black;
+    height: 40px;
+}
+#submit1{
+    margin-top: 10px;
+    width: 250px;
+    height: 40px;
+    background-color: dimgray;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.acs{
+    width: 480px;
+}
+.dateall{
+    border: 1px solid black;
+    padding-left: 20px;
+    width: 480px;
+    background-color: gainsboro;
+}
+.date{
+    font-family: sans-serif;
+    font-size: large;
+    width: 350px;
+    padding-left: 140px;
+}
+.all{
+    display: flex;
+}
+.item{
+    font-family: sans-serif;
+    font-size: large;
+    width: 50px;
+}
+.price{
+    padding-left: 280px;
+    font-family: sans-serif;
+    font-size: large;
+    color: red;
+}
+.pricep{
+    padding-left: 280px;
+    font-family: sans-serif;
+    font-size: large;
+    color: green;   
+}
+.navvbar >.firstul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+.navvbar >.firstul >li{
+    display: inline-block;
+}
+.navvbar >.firstul >li >a{
+    color: white;
+    text-decoration: none;
+    display: block;padding: 15px;
+    font-family: sans-serif;
+    font-size: small;
+}
+.navvbar >.firstul >li >a:hover{
+    text-decoration: underline;
+    color: teal;
+}
+.drop{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: none;
+}
+.drop >li >a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    font-family: sans-serif;
+    font-size: small;
+    padding: 10px;
+    background-color: red;
+}
+.drop >li >a:hover{
+    text-decoration: underline;
+    color: teal;
+}
+.navvbar >.firstul >li:hover .drop{
+    display: block; 
+}
+.ct{
+    margin-top: 10px;
+    background-color: dimgray;
+}
